@@ -1,0 +1,4 @@
+<resources>
+    <item name="tag_emojix_watcher" type="id"/>
+    <item name="tag_layout_listener" type="id"/>
+</resources>
